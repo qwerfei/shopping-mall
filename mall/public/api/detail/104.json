@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1041",
+            "title":"小米MIX 2",
+            "desc": "全面屏 黑科技",
+            "content":"4699元起",
+            "img":"https://i1.mifile.cn/f/i/17/mix2/index-header-bg-01.jpg"
+        },
+        {
+            "id":"1042",
+            "title":"雷军 与 斯塔克",
+            "desc": "一场关于小米MIX 2 极致工艺的巅峰对话",
+            "img":"https://i1.mifile.cn/f/i/17/mix2/index-dialog-bg.jpg?v3"
+        },
+        {
+            "id":"1043",
+            "title":"骁龙835 + 8GB 大内存",
+            "desc": "搭载高通骁龙835，8GB 最高内存版本可选，以及最新存储技术 UFS2.1，存储容量最高可达 256GB",
+            "img":"https://i1.mifile.cn/f/i/17/mix2/index-network-bg.jpg"
+        },
+        {
+            "id":"1044",
+            "title":"全球通 + 全球上网",
+            "desc": "小米MIX 2 支持多达 6 模 43 频段，可放心在全球范围内使用",
+            "img":"https://i1.mifile.cn/f/i/17/mix2/index-powerful-bg.jpg?V2"
+        }
+      ]
+    }
+}   

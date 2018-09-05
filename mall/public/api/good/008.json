@@ -1,0 +1,15 @@
+{
+    "status":"0",
+    "data":{
+      "count": "1",
+      "list": [
+        {
+            "id":"801",
+            "name":"小米电饭煲",
+            "price":"999",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/dfb.jpg"
+        }
+      ]
+    }
+}   
+  

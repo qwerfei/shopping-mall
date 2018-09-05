@@ -1,0 +1,39 @@
+{
+    "status":"0",
+    "data":{
+      "count": "5",
+      "list": [
+        {
+            "id":"301",
+            "name":"小米平板",
+            "price":"1099",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pingbanok.png"
+        },
+        {
+            "id":"302",
+            "name":"小米笔记本",
+            "price":"4199",
+            "img":"https://i1.mifile.cn/f/i/g/320x220biiben.png"
+        },
+        {
+            "id":"303",
+            "name":"小米游戏本",
+            "price":"6699",
+            "img":"https://i1.mifile.cn/f/i/g/2015/xinbijiben.png"
+        },
+        {
+            "id":"304",
+            "name":"小米pro",
+            "price":"6299",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/WechatIMG603.png"
+        },
+        {
+            "id":"305",
+            "name":"小米Air",
+            "price":"3599",
+            "img":"https://i1.mifile.cn/f/i/g/2015/video/bijiben32012.5.jpg"
+        }
+      ]
+    }
+}   
+  

@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"7011",
+            "title":"米家压力IH电饭煲",
+            "desc": "智能烹饪|压力 IH 加热 |灰铸铁粉体涂层内胆|3L 容量",
+            "content":"2999元起",
+            "img":"https://c1.mifile.cn/f/i/16/chain/dianfanguo/cooker-st-07.jpg"
+        },
+        {
+            "id":"7012",
+            "title":"幸福的味道，有点甜",
+            "desc": "吃自己煮的饭，是幸福的事，如果饭有微甜，那就是幸福的味道",
+            "img":"https://c1.mifile.cn/f/i/16/chain/dianfanguo/cooker-st-05-01.png"
+        },
+        {
+            "id":"7013",
+            "title":"IH 电磁环绕加热",
+            "desc": "让每一粒米都仿佛在锅里跳舞一样",
+            "img":"https://c1.mifile.cn/f/i/16/chain/dianfanguo/summary_video1.jpg"
+        },
+        {
+            "id":"7014",
+            "title":"手机预约，电饭煲喊你吃饭啦！",
+            "desc": "从现在开始，通过手机遥控家里的电饭煲，煮熟了还会通过手机提醒你",
+            "img":"https://c1.mifile.cn/f/i/16/chain/dianfanguo/cooker-st-09-a.jpg"
+        }
+      ]
+    }
+}    

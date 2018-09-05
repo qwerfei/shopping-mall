@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1081",
+            "title":"红米6",
+            "desc": "后置1200万 AI双摄 / 12nm八核处理器 / 5.45 高清全面屏 / AI 人脸解锁",
+            "content":"799元起",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6/summary/infor2.jpg"
+        },
+        {
+            "id":"1082",
+            "title":"AI智能识物",
+            "desc": "随手一拍，识别好物，尽享科技便利",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6/summary/ai.jpg"
+        },
+        {
+            "id":"1083",
+            "title":"AI双摄，留住精彩每一刻",
+            "desc": "AI人像模式+AI美颜，背景虚化，人像突出，美的更自然",
+            "img":"http://i1.mifile.cn/f/i/2018/redmi6/summary/design.jpg?1"
+        },
+        {
+            "id":"1084",
+            "title":"AI美颜自拍",
+            "desc": "好气色，一拍即得",
+            "img":"http://i1.mifile.cn/f/i/2018/redmi6/summary/deblocking.jpg?1"
+        }
+      ]
+    }
+}   

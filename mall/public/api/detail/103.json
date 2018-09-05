@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1031",
+            "title":"小米Max3AI双摄",
+            "desc": "巨无霸级全面屏，充电宝级大电量",
+            "content":"1699元起",
+            "img":"https://i1.mifile.cn/f/i/18/max3/index2.jpg"
+        },
+        {
+            "id":"1032",
+            "title":"巨无霸级全面屏",
+            "desc": "这块 18:9 巨无霸级全面屏，比上代提高 6.5% 屏占比，点亮屏幕瞬间，视觉震撼扑面而来",
+            "img":"https://i1.mifile.cn/f/i/18/max3/fullscreen.jpgg"
+        },
+        {
+            "id":"1033",
+            "title":"双功放",
+            "desc": "拿起手机，就能听到绵密立体的丰富声音层次",
+            "img":"https://i1.mifile.cn/f/i/18/max3/gongfang.jpg"
+        },
+        {
+            "id":"1034",
+            "title":"AI双摄",
+            "desc": "大屏手机里的拍照专家，就是它！",
+            "img":"https://i1.mifile.cn/f/i/18/max3/demo2.jpg"
+        }
+      ]
+    }
+}   

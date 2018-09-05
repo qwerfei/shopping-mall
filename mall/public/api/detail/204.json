@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"2041",
+            "title":"小米电视4 50英寸",
+            "desc": "老人小孩都会用的人工智能语音电视",
+            "content":"1999元起",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/banner.jpg"
+        },
+        {
+            "id":"2042",
+            "title":"人工智能语音系统",
+            "desc": "语音搜片 一句话的事儿 控制智能设备 一句话的事儿",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/poster_left.jpg"
+        },
+        {
+            "id":"2043",
+            "title":"超高清的 4K 屏",
+            "desc": "细节更多，色彩更鲜艳，还原真实的世间万物",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/poster_right.jpg"
+        },
+        {
+            "id":"2044",
+            "title":"有你想看的也有全家人喜欢的",
+            "desc": "大片、电视剧、综艺、少儿 ……天天都有新更新",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/channel1.jpg"
+        }
+      ]
+    }
+}   

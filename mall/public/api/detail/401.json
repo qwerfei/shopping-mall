@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"4011",
+            "title":"米家互联网空调",
+            "desc": "聪明，漂亮，像风一样",
+            "content":"1999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/aircondition/third/section0_bg.jpg"
+        },
+        {
+            "id":"4012",
+            "title":"节能环保，打造绿色生活",
+            "desc": "我们采用了相对于传统空调定频设计更省电的变频技术，降低功耗更节能",
+            "img":"https://i1.mifile.cn/f/i/2018/aircondition/third/section5_bg.jpg"
+        },
+        {
+            "id":"4013",
+            "title":"运行稳定，能耗低",
+            "desc": "高效稀土直流变频压缩机",
+            "img":"https://i1.mifile.cn/f/i/2018/aircondition/third/section6_img.jpg"
+        },
+        {
+            "id":"4014",
+            "title":"简约现代设计，融入家居环境",
+            "desc": "与2017G-mark 金奖空调一脉相承的内机外观设计",
+            "img":"https://i1.mifile.cn/f/i/2018/aircondition/third/section10_bg.jpg"
+        }
+      ]
+    }
+}   

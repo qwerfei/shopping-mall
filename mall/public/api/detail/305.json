@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"3051",
+            "title":"小米笔记本Air 13.3",
+            "desc": "全新升级：第八代四核处理器",
+            "content":"5399元起",
+            "img":"https://i1.mifile.cn/f/i/18/gamelaptop//banner.jpg"
+        },
+        {
+            "id":"3052",
+            "title":"AKG 扬声器,来自奥地利的艺术之声",
+            "desc": "闭上眼，仿佛身处影院；睁开眼，独享一片惬意",
+            "img":"https://i1.mifile.cn/f/i/18/mibookair/13/index_pic1.jpg"
+        },
+        {
+            "id":"3053",
+            "title":"性能提升 40%,全新第八代酷睿处理器",
+            "desc": "当前英特尔最新一代处理器，四核八线程，最高睿频可达 4.0GHz，蓄满澎湃动力，只待轻启一刻",
+            "img":"https://i1.mifile.cn/f/i/18/mibookair/13/index_windy.png"
+        },
+        {
+            "id":"3054",
+            "title":"高性能独立显卡",
+            "desc": "只需一个 GeForce®️ MX150 独立显卡和 2GB GDDR5 高速显存，让你对轻薄本的游戏性能完全改观",
+            "img":"https://i1.mifile.cn/f/i/17/mibookair13/perforrmance/p-dota.jpg?v2"
+        }
+      ]
+    }
+}   

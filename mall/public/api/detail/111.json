@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1111",
+            "title":"红米自拍手机S2",
+            "desc": "前置1600万 智能美拍｜后置1200万 AI 双摄",
+            "content":"999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6pro/infor2.jpg"
+        },
+        {
+            "id":"1112",
+            "title":"1200万 AI 双摄 单反般的背景虚化效果",
+            "desc": "后置 1200万+500万 双摄，基于AI机器学习算法，人像模式抠图更精准",
+            "img":"https://i1.mifile.cn/f/i/2018/redmis2/summary/gallery6.jpg?2"
+        },
+        {
+            "id":"1113",
+            "title":"高性能处理器",
+            "desc": "高通骁龙 625，疾速平稳",
+            "img":"http://i1.mifile.cn/f/i/2018/redmis2/summary/cpu.jpg"
+        },
+        {
+            "id":"1114",
+            "title":"2+1卡槽 装下你的生活点滴",
+            "desc": "独立三卡槽，双Nano-Sim卡+micro-SD拓展，最高支持256G大容量拓展",
+            "img":"https://i1.mifile.cn/f/i/18/redminote5/index/index_camera.jpg"
+        }
+      ]
+    }
+}   

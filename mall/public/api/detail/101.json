@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1011",
+            "title":"全球首款双频 GPS 手机",
+            "desc": "小米8 全球首款双频 GPS 手机，支持L1 + L5双频定位，双频信号协同工作",
+            "content":"2999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/mi8/summary/index1.jpg"
+        },
+        {
+            "id":"1012",
+            "title":"超轻四曲面",
+            "desc": "四曲面玻璃机身， 超轻 7 系铝金属中框，水滴弧收腰设计",
+            "img":"https://i1.mifile.cn/f/i/2018/mi8/summary/border1.jpg"
+        },
+        {
+            "id":"1013",
+            "title":"前置2000万",
+            "desc": "超高解析力的 2000 万前置摄像头，1.8μm（4合1）大像素技术，暗光自拍也能更清晰明亮",
+            "img":"http://i1.mifile.cn/f/i/2018/mi8/summary/ai.jpg?1"
+        },
+        {
+            "id":"1014",
+            "title":"惊人的30万跑分",
+            "desc": "骁龙845处理器，再次爆发强劲性能",
+            "img":"http://i1.mifile.cn/f/i/2018/mi8/summary/cpu.jpg"
+        }
+      ]
+    }
+}   

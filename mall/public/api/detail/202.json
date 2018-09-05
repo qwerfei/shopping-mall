@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"2021",
+            "title":"小米电视4 43英寸",
+            "desc": "64位四核处理器 | 1GB+4GB大内存 | 人工智能系统",
+            "content":"1499元起",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_banner.jpg"
+        },
+        {
+            "id":"2022",
+            "title":"更清晰的高清屏 新一代的画质引擎",
+            "desc": "画面更细腻逼真，色彩更明亮动",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_gaoqing_bg.jpg"
+        },
+        {
+            "id":"2023",
+            "title":"送给父母的好礼物 内容丰富、简单易用",
+            "desc": "能连接有线电视，也有很多网络内容,自动推荐父母喜欢看的电视剧",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_slider1_img2.jpg"
+        },
+        {
+            "id":"2024",
+            "title":"海量片源",
+            "desc": "电影、电视剧、综艺，内容上可圈可点",
+            "img":"https://i1.mifile.cn/f/i/18/mitv4s/55/watch-5.jpg"
+        }
+      ]
+    }
+}   

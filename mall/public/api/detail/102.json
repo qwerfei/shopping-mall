@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1021",
+            "title":"小米8 SE",
+            "desc": "骁龙710 全球首发，小屏旗舰",
+            "content":"1799元起",
+            "img":"http://i1.mifile.cn/f/i/18/8i/index_header_bg03.jpg"
+        },
+        {
+            "id":"1022",
+            "title":"全球首发骁龙710 准旗舰处理器",
+            "desc": "率先搭载骁龙710，与骁龙845 同为 10nm 工艺制程， 采用 8 核架构，画面更流畅，功耗更低，发热更少",
+            "img":"https://i1.mifile.cn/f/i/18/8i/index_cpu_bg.jpg"
+        },
+        {
+            "id":"1023",
+            "title":"5.88'' 全面屏",
+            "desc": "惊艳的 5.88'' 全面屏，却有着大小合手的 5.2'' 传统机身握感",
+            "img":"https://i1.mifile.cn/f/i/18/8i/index_header_bg01.jpg"
+        },
+        {
+            "id":"1024",
+            "title":"前置 2000 万柔光自拍",
+            "desc": "先进的 AI 前置算法，不仅带来单反般的自拍虚化效果，还特别对女生自拍场景进行优化",
+            "img":"https://i1.mifile.cn/f/i/18/8i/index_pic_1.jpg"
+        }
+      ]
+    }
+}   

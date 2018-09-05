@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"3011",
+            "title":"小米平板4",
+            "desc": "8 屏幕，单手可握的追剧神器",
+            "content":"8999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/mipad4p/index_intro.jpg"
+        },
+        {
+            "id":"3012",
+            "title":"骁龙660 AIE 处理器",
+            "desc": "骁龙 660 作为高通的高性能系列处理器，采用 14nm 工艺制程",
+            "img":"https://i1.mifile.cn/f/i/18/lap4/3.jpg"
+        },
+        {
+            "id":"3013",
+            "title":"追剧神器",
+            "desc": "海量影视内容，每天更新",
+            "img":"https://i1.mifile.cn/f/i/2018/mipad4p/index_net.jpg"
+        },
+        {
+            "id":"3014",
+            "title":"13MP 高画质相机",
+            "desc": "前置 5MP 美颜相机 + AI 人脸识别",
+            "img":"https://i1.mifile.cn/f/i/18/lap4/12.jpg"
+        }
+      ]
+    }
+}   

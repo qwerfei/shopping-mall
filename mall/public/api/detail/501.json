@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"5011",
+            "title":"小米手环 3",
+            "desc": "你的进步，都能被看见",
+            "content":"169元起",
+            "img":"https://c1.mifile.cn/f/i/16/chain/shouhuan3/mj-shouhuan-1.jpg"
+        },
+        {
+            "id":"5012",
+            "title":"全新 OLED 可触摸大屏",
+            "desc": "一划一按，简单明了",
+            "img":"https://c1.mifile.cn/f/i/16/chain/shouhuan3/mj-shouhuan-3-1.jpg"
+        },
+        {
+            "id":"5013",
+            "title":"消息灵通，抬腕可见",
+            "desc": "微信、QQ、来电等消息内容直接显示",
+            "img":"https://c1.mifile.cn/f/i/16/chain/shouhuan3/mj-shouhuan-4.jpg"
+        },
+        {
+            "id":"5014",
+            "title":"久坐提醒",
+            "desc": "专心投入，也要适度放松",
+            "img":"https://c1.mifile.cn/f/i/16/chain/shouhuan3/mj-shouhuan-10.jpg"
+        }
+      ]
+    }
+}   

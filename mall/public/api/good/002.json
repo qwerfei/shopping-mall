@@ -1,0 +1,39 @@
+{
+    "status":"0",
+    "data":{
+      "count": "5",
+      "list": [
+        {
+            "id":"201",
+            "name":"小米电视 4A 75英寸",
+            "price":"8699",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/75.png"
+        },
+        {
+            "id":"202",
+            "name":"小米电视 4A 32英寸",
+            "price":"899",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/32.png"
+        },
+        {
+            "id":"203",
+            "name":"小米电视 4A 43英寸",
+            "price":"1399",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/4a43.png"
+        },
+        {
+            "id":"204",
+            "name":"小米电视 4A 50英寸",
+            "price":"1899",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/50.png"
+        },
+        {
+            "id":"205",
+            "name":"小米电视 4A 55英寸",
+            "price":"2299",
+            "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/55320220.png"
+        }
+      ]
+    }
+}   
+  

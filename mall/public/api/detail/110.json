@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1101",
+            "title":"红米Note 5",
+            "desc": "逆天暗光更出色",
+            "content":"999元起",
+            "img":"https://i1.mifile.cn/f/i/18/redminote5/index_slider2.jpg"
+        },
+        {
+            "id":"1102",
+            "title":"千元机里的拍照专家",
+            "desc": "迄今拍照最好的红米手机*，1.4μm超大像素，暗光拍照更清晰。Dual PD 双核对焦",
+            "img":"https://i1.mifile.cn/f/i/18/redminote5/index/index_camera.jpg"
+        },
+        {
+            "id":"1103",
+            "title":"AI 双摄, 梦幻般的背景虚化",
+            "desc": "用手机拍出单反的感觉？两颗镜头取景，再通过AI人工智能处理",
+            "img":"http://i1.mifile.cn/f/i/2018/mi8/summary/ai.jpg?1"
+        },
+        {
+            "id":"1104",
+            "title":"Dual PD 双核对焦",
+            "desc": "0.03s的最佳对焦表现，使你在聚会抓拍，或是拍好动的宝宝时，几乎感觉不到对焦过程",
+            "img":"https://i1.mifile.cn/f/i/18/redminote5/index/index_pre_camera2.jpg"
+        }
+      ]
+    }
+}   

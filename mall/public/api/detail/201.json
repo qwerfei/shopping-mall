@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"2011",
+            "title":"小米电视4 32英寸",
+            "desc": "64位四核处理器 | 1GB+4GB大内存 | 人工智能系统",
+            "content":"899元起",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_banner.jpg"
+        },
+        {
+            "id":"2012",
+            "title":"送给父母的好礼物 内容丰富、简单易用",
+            "desc": "能连接有线电视，也有很多网络内容 自动推荐父母喜欢看的电视剧",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_gaoqing_bg.jpg"
+        },
+        {
+            "id":"2013",
+            "title":"64位四核处理器",
+            "desc": "是大容量的电视机，也是有速度的游戏机",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_ram_bg.jpg"
+        },
+        {
+            "id":"2014",
+            "title":"立体声扬声器 大片音效更震撼",
+            "desc": "看电影、看美剧，看什么都身临其境",
+            "img":"https://c1.mifile.cn/f/i/17/mitv4A/32/index_yinxiao_bg.jpgg"
+        }
+      ]
+    }
+}   

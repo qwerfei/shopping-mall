@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"2031",
+            "title":"小米电视4 43英寸",
+            "desc": "老人小孩都会用的人工智能语音电视",
+            "content":"1499元起",
+            "img":"http://i1.mifile.cn/f/i/18/mitv4A/43y/index_picbg1.png"
+        },
+        {
+            "id":"2032",
+            "title":"想看什么，按住语音键说出来",
+            "desc": "操作简单方便，想看什么想知道什么，只需按住遥控器语音键，说出来。一句话的事儿",
+            "img":"https://i1.mifile.cn/f/i/18/mitv4A/43y/index_aicontrol1.png"
+        },
+        {
+            "id":"2033",
+            "title":"根据你的喜好，精准推荐内容",
+            "desc": "不断的深度学习，想你所想，投你所好，科学处理你和内容之间的关系",
+            "img":"https://i1.mifile.cn/f/i/18/mitv4s/55/watch-5.jpg"
+        },
+        {
+            "id":"2034",
+            "title":"海量片源",
+            "desc": "电影、电视剧、综艺，内容上可圈可点",
+            "img":"https://i1.mifile.cn/f/i/18/mitv4A/43y/index_doblybg.jpg"
+        }
+      ]
+    }
+}   

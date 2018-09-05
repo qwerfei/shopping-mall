@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"2051",
+            "title":"小米电视4 55英寸",
+            "desc": "老人小孩都会用的人工智能语音电视",
+            "content":"8999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/mitv4a_55/banner_bg.jpg"
+        },
+        {
+            "id":"2052",
+            "title":"超窄边，看片更沉浸",
+            "desc": "超窄边设计，视野更宽，看大片更震撼",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/db_bg.jpg"
+        },
+        {
+            "id":"2053",
+            "title":"有你想看的也有全家人喜欢的",
+            "desc": "大片、电视剧、综艺、少儿 ……天天都有新更新",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/channel3.jpg"
+        },
+        {
+            "id":"2054",
+            "title":"64位四核高性能处理器",
+            "desc": "64位四核高性能处理器，性能强劲、体验流畅，可以快速响应，快速处理",
+            "img":"https://i1.mifile.cn/f/i/17/mitv4A/50/cpu.jpg"
+        }
+      ]
+    }
+}   

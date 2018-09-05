@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1091",
+            "title":"红米6A",
+            "desc": "AI人脸解锁，小屏高性能",
+            "content":"599元起",
+            "img":"https://i1.mifile.cn/f/i/18/redmi6a/index_intro_bg.jpg"
+        },
+        {
+            "id":"1092",
+            "title":"全新12nm处理器，强劲性能，流畅运行",
+            "desc": "主频高达2.0GHz，无论是工作还是娱乐，都能让你轻松应对",
+            "img":"https://i1.mifile.cn/f/i/18/redmi6a/index_cpu_bg.jpg"
+        },
+        {
+            "id":"1093",
+            "title":"3000mAh电池，守护你的每一次出行",
+            "desc": "全新12nm制程工艺处理器，更低功耗，配合MIUI 9 智能省电和睡眠模式，为红米6A提供更持久续航",
+            "img":"https://i1.mifile.cn/f/i/18/redmi6a/index_battery_bg.jpg"
+        },
+        {
+            "id":"1094",
+            "title":"AI人脸识别",
+            "desc": "为更方便快速的解锁红米6A，我们推出更智能的抬手亮屏功能",
+            "img":"https://i1.mifile.cn/f/i/18/redmi6a/index_gallery_2.jpg"
+        }
+      ]
+    }
+}   

@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1061",
+            "title":"小米MIX 2S",
+            "desc": "骁龙 845 旗舰处理器 | AI 双摄相机 | 艺术品般的陶瓷机身",
+            "content":"2999元起",
+            "img":"https://i1.mifile.cn/f/i/2018/mix2s/summary/gallery-4.jpg"
+        },
+        {
+            "id":"1062",
+            "title":"全面屏 + 四曲面陶瓷手机中的艺术品",
+            "desc": "自小米MIX 发布以来，不仅先后斩获多项国际大奖，更被多家世界级博物馆收藏",
+            "img":"https://i1.mifile.cn/f/i/2018/mix2s/summary/jadeite1.jpg"
+        },
+        {
+            "id":"1063",
+            "title":"AI 超感光双摄，百分相机",
+            "desc": "将变焦双摄进一步升级，1.4 μm 超大像素，",
+            "img":"https://i1.mifile.cn/f/i/2018/mix2s/summary/pic-6.jpg"
+        },
+        {
+            "id":"1064",
+            "title":"不可思议的 AI 梦境虚化效果",
+            "desc": "实时优化调校。甚至拍 PPT 都能超分辨率拍摄，内容清晰锐利，神奇之处待你体验",
+            "img":"https://i1.mifile.cn/f/i/2018/mix2s/summary/camera-videoposter1.jpg?201801"
+        }
+      ]
+    }
+}   

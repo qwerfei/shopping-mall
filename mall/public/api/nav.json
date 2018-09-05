@@ -1,0 +1,222 @@
+{
+	"status": 0,
+	"data": {
+        "navList": [
+        {
+            "id": "001",
+            "title": "手机",
+            "children":[
+                {
+                    "id":"101",
+                    "name":"小米8",
+                    "price":"2699",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8.png"
+                },
+                {
+                    "id":"102",
+                    "name":"小米8SE",
+                    "price":"1799",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8se.png"
+                },
+                {
+                    "id":"103",
+                    "name":"小米MIX3",
+                    "price":"1699",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/max3-320-220.png"
+                },
+                {
+                    "id":"104",
+                    "name":"小米MIX2",
+                    "price":"2599",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/mix2320-220.png"
+                },
+                {
+                    "id":"105",
+                    "name":"小米6X",
+                    "price":"1399",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/32022012085.jpg"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "title": "电视",
+            "children":[
+                {
+                    "id":"201",
+                    "name":"小米电视 4A 75英寸",
+                    "price":"8699",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/75.png"
+                },
+                {
+                    "id":"202",
+                    "name":"小米电视 4A 32英寸",
+                    "price":"899",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/32.png"
+                },
+                {
+                    "id":"203",
+                    "name":"小米电视 4A 43英寸",
+                    "price":"1399",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/4a43.png"
+                },
+                {
+                    "id":"204",
+                    "name":"小米电视 4A 50英寸",
+                    "price":"1899",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/50.png"
+                },
+                {
+                    "id":"205",
+                    "name":"小米电视 4A 55英寸",
+                    "price":"2299",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/55320220.png"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "title": "电脑",
+            "children":[
+                {
+                    "id":"301",
+                    "name":"小米平板",
+                    "price":"1099",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pingbanok.png"
+                },
+                {
+                    "id":"302",
+                    "name":"小米笔记本",
+                    "price":"4199",
+                    "img":"https://i1.mifile.cn/f/i/g/320x220biiben.png"
+                },
+                {
+                    "id":"303",
+                    "name":"小米游戏本",
+                    "price":"6699",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xinbijiben.png"
+                },
+                {
+                    "id":"304",
+                    "name":"小米pro",
+                    "price":"6299",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/WechatIMG603.png"
+                },
+                {
+                    "id":"305",
+                    "name":"小米Air",
+                    "price":"3599",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/video/bijiben32012.5.jpg"
+                }
+            ]
+        },
+        {
+            "id": "004",
+            "title": "空调",
+            "children":[
+                {
+                    "id":"401",
+                    "name":"米加互联网空调",
+                    "price":"2699",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/kongtiao320-220.jpg"
+                }
+            ]
+        },
+        {
+            "id": "005",
+            "title": "智能",
+            "children":[
+                {
+                    "id":"501",
+                    "name":"小米手环",
+                    "price":"169",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+                },
+                {
+                    "id":"502",
+                    "name":"小米手环",
+                    "price":"169",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+                },
+                {
+                    "id":"503",
+                    "name":"小米手环",
+                    "price":"169",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+                },
+                {
+                    "id":"504",
+                    "name":"小米手环",
+                    "price":"169",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+                },
+                {
+                    "id":"505",
+                    "name":"小米手环",
+                    "price":"169",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+                }
+            ]
+        },
+        {
+            "id": "006",
+            "title": "路由器",
+            "children":[
+                {
+                    "id":"601",
+                    "name":"小米路由器",
+                    "price":"199",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xiaomiluyouqi4.png"
+                },
+                {
+                    "id":"602",
+                    "name":"小米路由器",
+                    "price":"199",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xiaomiluyouqi4.png"
+                },
+                {
+                    "id":"603",
+                    "name":"小米路由器",
+                    "price":"199",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xiaomiluyouqi4.png"
+                },
+                {
+                    "id":"604",
+                    "name":"小米路由器",
+                    "price":"199",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xiaomiluyouqi4.png"
+                },
+                {
+                    "id":"605",
+                    "name":"小米路由器",
+                    "price":"199",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/xiaomiluyouqi4.png"
+                }
+            ]
+        },
+        {
+            "id": "007",
+            "title": "新品",
+            "children":[
+                {
+                    "id":"701",
+                    "name":"小米无人机",
+                    "price":"2999",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/123321.jpg"
+                }
+            ]
+        },  
+        {
+            "id": "008",
+            "title": "其它",
+            "children":[
+                {
+                    "id":"801",
+                    "name":"小米电饭煲",
+                    "price":"999",
+                    "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/dfb.jpg"
+                }
+            ]
+        }]
+	}
+}

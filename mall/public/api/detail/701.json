@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"7011",
+            "title":"小米无人机 4k 版",
+            "desc": "探索触手可及的新视角",
+            "content":"2999元起",
+            "img":"https://c1.mifile.cn/f/i/16/chain/miuav4k/miuav-14.jpg"
+        },
+        {
+            "id":"7012",
+            "title":"可以轻松驾驭的无穷乐趣",
+            "desc": "为了让毫无经验的新手也能轻松驾驭，我们让诸多复杂的飞行操控变得更加简单容易",
+            "img":"https://c1.mifile.cn/f/i/16/chain/miuav4k/miuav-18-03.jpg"
+        },
+        {
+            "id":"7013",
+            "title":"身临其境的高清实时图传",
+            "desc": "小米无人机 4K 版内置 TDMA 高清数字图传技术，具有抗干扰能力强、延时低的特点",
+            "img":"https://c1.mifile.cn/f/i/16/chain/miuav4k/miuav-07.jpg"
+        },
+        {
+            "id":"7014",
+            "title":"美不胜收更要续航持久",
+            "desc": "8 重电池智能保护技术令电池使用更安全，寿命更长",
+            "img":"https://c1.mifile.cn/f/i/16/chain/miuav4k/miuav-16.jpg"
+        }
+      ]
+    }
+}   

@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"6011",
+            "title":"小米路由器 3G",
+            "desc": "双核全千兆设计 / 128MB 超大Flash / 256MB 大内存 / USB 3.0",
+            "content":"199元起",
+            "img":"https://c1.mifile.cn/f/i/17/miwifihd/index/hx02.jpg?new"
+        },
+        {
+            "id":"6012",
+            "title":"光纤级大户型首选",
+            "desc": "小米路由器3G全面升级，千兆家庭网络接入首选",
+            "img":"https://c1.mifile.cn/f/i/17/miwifi3g/index/bg-broadband.jpg"
+        },
+        {
+            "id":"6013",
+            "title":"256MB大内存,处理数据更快",
+            "desc": "256MB大内存为更多设备的稳定连接保驾护航，全家上网自由分享",
+            "img":"https://c1.mifile.cn/f/i/17/miwifi3g/index/bg-rom.jpg"
+        },
+        {
+            "id":"6014",
+            "title":"USB3.0接口，极速备份照片数据",
+            "desc": "远程控制一键搞定，回到家即播即看，足不出户享受极具性价比的智能影音中心",
+            "img":"https://c1.mifile.cn/f/i/17/miwifi3g/index/bg-movie.jpg"
+        }
+      ]
+    }
+}   

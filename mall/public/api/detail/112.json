@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1001",
+            "title":"红米5",
+            "desc": "千元全面屏",
+            "content":"999元起",
+            "img":"https://i1.mifile.cn/f/i/17/redmi5/index_intro.jpg?"
+        },
+        {
+            "id":"1002",
+            "title":"18:9 全面屏",
+            "desc": "定制 5.99 大屏，圆角屏幕设计，圆润、优雅",
+            "img":"https://i1.mifile.cn/f/i/17/redmi5/index_screen.jpg?"
+        },
+        {
+            "id":"1003",
+            "title":"超预期的品质",
+            "desc": "采用旗舰级测试标准，近乎“变态”的可靠性测试，每部红米必经 14571 项检测，保证品质可靠",
+            "img":"https://i1.mifile.cn/f/i/17/redmi5/index_video_cover.jpg?"
+        },
+        {
+            "id":"1004",
+            "title":"4000mAh 大电量",
+            "desc": "高通 14nm 低功耗处理器，MIUI 系统省电优化，一口气看 15 小时视频也不在话下",
+            "img":"https://i1.mifile.cn/f/i/17/redmi5/index_extend.jpg"
+        }
+      ]
+    }
+}   

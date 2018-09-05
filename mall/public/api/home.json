@@ -1,0 +1,73 @@
+{
+	"status": 0,
+	"data": {
+		"sideshow": [
+    {
+			"id": "1",
+			"img": "https://i1.mifile.cn/f/i/2018/mi8/summary/index1.jpg"
+		}],
+		"recommendList": [
+    {
+			"id": "0001",
+      "title": "推荐商品",
+      "list":[
+        {
+          "id":"101",
+          "name":"小米8",
+          "desc": "全球首款双频GPS,骁龙845处理器",
+          "price":"2699",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8.png"
+        },
+        {
+          "id":"102",
+          "name":"小米8SE",
+          "desc": "Ai超感光双摄,三星AMOLED屏幕",
+          "price":"1799",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8se.png"
+        },
+        {
+          "id":"104",
+          "name":"小米MIX2",
+          "price":"2599",
+          "desc": "全面屏2.0",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/mix2320-220.png"
+        },
+        {
+          "id":"201",
+          "name":"小米电视 4A 75英寸",
+          "price":"8699",
+          "desc": "4K HDR,人工智能语音",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/75.png"
+        },
+        {
+          "id":"202",
+          "name":"小米电视 4A 32英寸",
+          "desc": "全面清屏,人工智能语音",
+          "price":"899",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/32.png"
+        },
+        {
+          "id":"303",
+          "name":"小米游戏本",
+          "desc": "电竞级性能怪兽",
+          "price":"6699",
+          "img":"https://i1.mifile.cn/f/i/g/2015/xinbijiben.png"
+        },
+        {
+          "id":"501",
+          "name":"小米手环",
+          "desc": "触摸大屏,50米防水",
+          "price":"169",
+          "img":"https://i1.mifile.cn/f/i/g/2015/shouhuan.png"
+        },
+        {
+          "id":"301",
+          "name":"小米平板",
+          "desc": "8核高性能,流畅游戏",
+          "price":"1099",
+          "img":"https://i1.mifile.cn/f/i/g/2015/cn-index/pingbanok.png"
+        }
+      ]
+		}]
+	}
+}

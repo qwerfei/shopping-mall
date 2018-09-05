@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1051",
+            "title":"小米6X",
+            "desc": "前置2000万治愈系自拍 | 后置2000万 AI 双摄 | 标配骁龙660 AIE处理器",
+            "content":"2999元起",
+            "img":"http://i1.mifile.cn/f/i/18/mi6x/index_header_1.jpg"
+        },
+        {
+            "id":"1052",
+            "title":"“杨柳腰”纤薄机身",
+            "desc": "精致纤薄的“杨柳腰”收弧设计，精雕细琢的全金属机身，细腻饱满的磨砂质感",
+            "img":"https://i1.mifile.cn/f/i/18/mi6x/index_body_2.jpg"
+        },
+        {
+            "id":"1053",
+            "title":"蜷川实花 · 大师合作滤镜",
+            "desc": "独家定制 5 款滤镜，让你的照片更富文艺气质",
+            "img":"https://i1.mifile.cn/f/i/18/mi6x/index_pic_list_bg.jpg"
+        },
+        {
+            "id":"1054",
+            "title":"标配骁龙660 AIE处理器",
+            "desc": "更特别针对“王者荣耀满血版”优化，尽享高帧率体验的同时功耗更低，发热更少",
+            "img":"https://i1.mifile.cn/f/i/18/mi6x/index_game.jpg"
+        }
+      ]
+    }
+}   

@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"3031",
+            "title":"小米游戏本-八代增强版",
+            "desc": "电竞级性能怪兽",
+            "content":"6999元起",
+            "img":"https://i1.mifile.cn/f/i/18/gamelaptop//banner.jpg"
+        },
+        {
+            "id":"3032",
+            "title":"冷酷的性能怪兽",
+            "desc": "第八代英特尔® 酷睿™ 标压处理器",
+            "img":"https://i1.mifile.cn/f/i/18/migaminglaptop/card_01.jpg"
+        },
+        {
+            "id":"3033",
+            "title":"电竞级装备",
+            "desc": "更强大的内芯都将带来飞跃性的体验升级",
+            "img":"https://i1.mifile.cn/f/i/18/migaminglaptop/card_03.jpg"
+        },
+        {
+            "id":"3034",
+            "title":"用专业级显示屏打游戏",
+            "desc": "专业的高清屏，令你看清游戏世界的更多真相",
+            "img":"https://i1.mifile.cn/f/i/18/migaminglaptop/sound.jpg"
+        }
+      ]
+    }
+}   

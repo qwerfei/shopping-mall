@@ -1,0 +1,15 @@
+{
+    "status":"0",
+    "data":{
+      "count": "1",
+      "list": [
+        {
+            "id":"401",
+            "name":"米加互联网空调",
+            "price":"2699",
+            "img":"https://i1.mifile.cn/f/i/g/2015/kongtiao320-220.jpg"
+        }
+      ]
+    }
+}   
+  

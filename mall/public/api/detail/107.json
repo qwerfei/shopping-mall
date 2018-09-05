@@ -1,0 +1,32 @@
+{
+    "status":"0",
+    "data":{
+      "list": [
+        {
+            "id":"1071",
+            "title":"红米6 Pro",
+            "desc": "5.84 异形全面屏 / 后置1200万 AI双摄 / 骁龙625 八核处理器",
+            "content":"799元起",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6pro/infor2.jpg"
+        },
+        {
+            "id":"1072",
+            "title":"新一代全面屏，全新视觉体验",
+            "desc": "红米6 Pro配备了新一代 5.84 全高清全面屏，19:9的显示比例，为你带来更震撼的视野",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6pro/screen.jpg"
+        },
+        {
+            "id":"1073",
+            "title":"拍照",
+            "desc": "后置1200万AI双摄，拍照妙趣横生",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6pro/camera.jpg"
+        },
+        {
+            "id":"1074",
+            "title":"高通八核处理器，够强劲，玩尽兴",
+            "desc": "红米6 Pro秉承红米一贯的强劲性能，同样快的出色。这意味着你喜欢的游戏和大型应用，都能运行的游刃有余",
+            "img":"https://i1.mifile.cn/f/i/2018/redmi6pro/performance.jpg"
+        }
+      ]
+    }
+}   
